@@ -1,5 +1,9 @@
 # [React Bits](https://vasanthk.gitbooks.io/react-bits)
 
+> 原文：[React Bits 中文版](https://github.com/funkkiid/react-bits-CN)
+
+> 作者：[hateonion](https://github.com/hateonion)
+
 有关React，你需要知道的一切
 
 **Gitbook format**: http://hateonion.me/book/react-bits-cn/
