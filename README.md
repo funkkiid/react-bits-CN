@@ -1,6 +1,6 @@
 # [React Bits](https://vasanthk.gitbooks.io/react-bits)
 
-> 原文：[React Bits 中文版](https://github.com/funkkiid/react-bits-CN)
+> 原文：[React Bits 中文版](https://github.com/hateonion/react-bits-CN)
 
 > 作者：[hateonion](https://github.com/hateonion)
 
