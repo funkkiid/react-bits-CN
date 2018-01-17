@@ -1,7 +1,7 @@
 # [React Bits](https://vasanthk.gitbooks.io/react-bits)
 
 > 本开源书 forked from [React Bits 中文版](https://github.com/hateonion/react-bits-CN)，作者为 [hateonion](https://github.com/hateonion)，欢迎大家 star 原作者的 [repo](https://github.com/hateonion/react-bits-CN)，以便获得最新更新，谢谢！
----
+
 
 有关React，你需要知道的一切
 
